@@ -1,1 +1,1 @@
-# the_sicence_programing
+# the translation of the sicence programing
