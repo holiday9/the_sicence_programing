@@ -1,8 +1,11 @@
 # 前言
 
 This is the textbook I home some like Professor David Gries would write --and, since the latter has no rivals, than means I just hoped he would wirte it. [?The topic deserves no lesser author.?]
+
 我一直希望有一位类似David Gries这样的牛人能写一本该主题的书，甚至认为David Gries才是最适合的,对于这一点应该是没什么疑议的。
 
+The difference between the "old program" and the "new program" is as profound as the difference between a conjecture and a proven theorem, between pre-scientific knowledge of mathematical facts and consequences[影响] rigorously[严格的] deduced[推理] from a body of postulates[假设].
 
+在过去10年，“编程”的概念的潜在含义发生了极大的改变。在过去10年与现在相比编程的概念都是指在电脑上运行一段代码。除了二者字面意思相同，二者是极不相同的，如果不加区分的把二者用相同的术语描述一定会让人感到困惑. 新老编程概念的区别如同理论证明和猜想的区别，或者像零散的数学知识与经过严格的形式化推理而形成的理论体系之间的区别。
 
 
