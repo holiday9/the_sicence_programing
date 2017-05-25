@@ -8,4 +8,8 @@ The difference between the "old program" and the "new program" is as profound as
 
 在过去10年，“编程”的概念的潜在含义发生了极大的改变。在过去10年与现在相比编程的概念都是指在电脑上运行一段代码。除了二者字面意思相同，二者是极不相同的，如果不加区分的把二者用相同的术语描述一定会让人感到困惑. 新老编程概念的区别如同理论证明和猜想的区别，或者像零散的数学知识与经过严格的形式化推理而形成的理论体系之间的区别。
 
+Remembering how many centuries it has taken Mankind to appreciate fully the profundity of this latter distinction , we get a glimpse of the edu-cational challenge we are facing:besides teaching technicalities, we have to overcome the mental resistance always evoked when it is shown how the techniques of scientific thought can be fruitfully applied to a next area of human endeavor.
+
+深刻领会后面二者的区别花费了人类好几个世纪，我们了解到一些教育面临的挑战，包括：教学技巧、当把科学领域的技巧应用到其它领域时所面临的心理障碍。
+
 
