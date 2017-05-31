@@ -12,4 +12,53 @@ Remembering how many centuries it has taken Mankind to appreciate fully the prof
 
 深刻领会后面二者的区别花费了人类好几个世纪，我们了解到一些教育面临的挑战，包括：教学技巧、当把科学领域的技巧应用到其它领域时所面临的心理障碍。
 
+It does not suffice[足够] just to explain the formal machinery that enables us to design "new programs". New formalisms are always frightening, and it takes much careful teaching to convince the novice that the formalism is not only helpful but even indispensable.
+Choice and order of examples are as imporot as the good taste with which the formalism is applied.[???] To get the message across requires a scientist that combines his scientific involvement in the subject with the precious gifts of a devoted teacher.[???] We should consider ourselves fortunate that Professor Daid Gries has met the challenge.
+
+仅仅通过解释我们进行新的编程概念的机制来让人们使用新编程概念，这样的力度是不够的。新的形式化的编程概念有些令人畏惧，需要花费大量教学技巧让学生深信形式化不仅有用而且必要。提供教学的事例的选择和安排如同品尝美食的顺序一样重要。而这种教学技巧的信息的获取需要从一个既做科研又热爱教学的老师上身获取。幸运的是，Daid Gries教授恰好满足这些要求。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
